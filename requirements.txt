@@ -1,0 +1,36 @@
+# E-Commerce Customer Analytics - Dependencies
+# Core Data Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Statistical Analysis
+scipy>=1.10.0
+scikit-learn>=1.3.0
+
+# Data Generation & Utilities
+faker>=18.0.0
+python-dateutil>=2.8.0
+
+# Optional: Enhanced Analytics
+plotly>=5.14.0          # Interactive visualizations
+jupyter>=1.0.0          # Jupyter notebook support
+ipython>=8.0.0          # Enhanced Python shell
+
+# Optional: Database Connectivity
+# Uncomment if you need database connections
+# psycopg2>=2.9.0       # PostgreSQL
+# pymongo>=4.3.0        # MongoDB
+# sqlalchemy>=2.0.0     # SQL toolkit
+
+# Optional: Export & Reporting
+# openpyxl>=3.1.0       # Excel export
+# reportlab>=4.0.0      # PDF reports
+
+# Development & Testing (Optional)
+# pytest>=7.3.0         # Testing framework
+# black>=23.3.0         # Code formatting
+# flake8>=6.0.0         # Code linting
